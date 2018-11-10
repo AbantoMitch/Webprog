@@ -1,0 +1,19 @@
+.margin {
+	margin: 0 auto;
+	width: 750px;
+	height: 500px;
+	border: 10px solid #0000cc;
+	padding: 10px;
+	background-color: powderblue;
+}
+
+.intro {
+	margin:0 auto ;
+	width: 550px;
+	height: 350px;
+	color: black;
+	text-align: left;
+	float: right;
+	background-color: lightblue;
+}
+
